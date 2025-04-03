@@ -126,6 +126,9 @@ footer p {
 }
 
 /* the style for the navigation */
+nav {
+	position: relative;
+}
 nav ul {
 	list-style-type: none;
 	padding: 0px;
@@ -134,7 +137,6 @@ nav ul {
 
 nav li {
 	float: left;
-	position: relative;
 }
 
 nav a {
