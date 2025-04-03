@@ -135,6 +135,15 @@ nav ul {
 nav li {
 	float: left;
 }
+
+nav a {
+	display: block;
+	width: 160px;
+	text-align: center;
+	text-decoration: none;
+	background-color: #800000;
+	font-weight: bold;
+}
 	
 
 
