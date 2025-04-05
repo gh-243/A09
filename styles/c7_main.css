@@ -152,7 +152,9 @@ nav a {
 .current {
 	color: yellow;
 }
-	
+.submenu {
+	float: none;
+}
 
 
 
