@@ -70,7 +70,7 @@ section blockquote {
 }
 section ul {
 	padding: 0 0 .25em 1.25em;
-	section-style-type: circle;
+	list-style-type: circle;
 }
 section li {
 	padding-bottom: .35em;
